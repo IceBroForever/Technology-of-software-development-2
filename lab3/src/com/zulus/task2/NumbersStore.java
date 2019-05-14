@@ -39,7 +39,7 @@ public class NumbersStore {
     }
 
     public List<Integer> getNumbers() {
-        return numbers;
+        return new ArrayList<>(numbers);
     }
 
     public void load(String text) {
