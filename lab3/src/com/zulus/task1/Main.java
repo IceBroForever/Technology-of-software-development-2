@@ -1,4 +1,4 @@
-package com.zulus;
+package com.zulus.task1;
 
 public class Main {
     public static void main(String[] args) {

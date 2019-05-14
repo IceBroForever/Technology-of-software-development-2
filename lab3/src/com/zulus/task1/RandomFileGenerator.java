@@ -1,4 +1,4 @@
-package com.zulus;
+package com.zulus.task1;
 
 import java.io.IOException;
 import java.io.File;

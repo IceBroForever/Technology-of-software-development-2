@@ -1,4 +1,4 @@
-package com.zulus;
+package com.zulus.task1;
 
 import java.util.Observable;
 import java.util.Observer;

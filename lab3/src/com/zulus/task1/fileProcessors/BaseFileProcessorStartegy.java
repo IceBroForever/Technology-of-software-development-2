@@ -1,4 +1,4 @@
-package com.zulus.fileProcessors;
+package com.zulus.task1.fileProcessors;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -54,6 +54,7 @@ abstract public class BaseFileProcessorStartegy {
                 outputStream.writeInt(number);
                 outputStream.writeChar('\n');
             }
+            outputStream.flush();
             outputStream.close();
         } catch (IOException err) {
             err.printStackTrace();

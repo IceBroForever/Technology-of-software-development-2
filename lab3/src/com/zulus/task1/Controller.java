@@ -1,7 +1,6 @@
-package com.zulus;
+package com.zulus.task1;
 
-import com.zulus.fileProcessors.BaseFileProcessorStartegy;
-import com.zulus.fileProcessors.TextToTextFileProcessorStrategy;
+import com.zulus.task1.fileProcessors.*;
 
 public class Controller {
     private ConsoleView view;
@@ -22,26 +21,26 @@ public class Controller {
                             = new TextToTextFileProcessorStrategy("input.txt", "output.txt");
                     break;
                 }
-//                case 2: {
-//                    processingStrategy
-//                            = new BinaryFilesNumberProcessingStrategy("input.dat", "output.dat");
-//                    break;
-//                }
-//                case 3: {
-//                    processingStrategy
-//                            = new BinaryFileNumberProcessingStrategy("numbers.dat");
-//                    break;
-//                }
-//                case 4: {
-//                    processingStrategy
-//                            = new TextToBinaryProcessingStrategy("input.txt", "output.dat");
-//                    break;
-//                }
-//                case 5: {
-//                    processingStrategy
-//                            = new BinaryToTextProcessingStrategy("input.dat", "output.txt");
-//                    break;
-//                }
+                case 2: {
+                    processingStrategy
+                            = new BinaryToBinaryFileProcessorStrategy("input.dat", "output.dat");
+                    break;
+                }
+                case 3: {
+                    processingStrategy
+                            = new BinaryToTheSameFileProcessorStrategy("numbers.dat");
+                    break;
+                }
+                case 4: {
+                    processingStrategy
+                            = new TextToBinaryFileProcessorStrategy("input.txt", "output.dat");
+                    break;
+                }
+                case 5: {
+                    processingStrategy
+                            = new BinaryToTextFileProcessorStrategy("input.dat", "output.txt");
+                    break;
+                }
                 default: {
                     view.printNotification("Please, choose between 1 and 5!");
                     continue;

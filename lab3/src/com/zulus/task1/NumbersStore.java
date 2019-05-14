@@ -1,9 +1,8 @@
-package com.zulus;
+package com.zulus.task1;
 
-import com.zulus.fileProcessors.BaseFileProcessorStartegy;
+import com.zulus.task1.fileProcessors.BaseFileProcessorStartegy;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Observable;
 
@@ -27,7 +26,6 @@ public class NumbersStore extends Observable {
             numbers.add(0);
         }
     }
-
 
     public void fillRandom(int min, int max, int len) {
         int diff = max - min;
