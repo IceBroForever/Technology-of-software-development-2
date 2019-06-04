@@ -36,7 +36,7 @@ public class ArrayDivider extends JFrame {
                     model.setArrayFromString(arrayInput.getText());
                     evenNumbersOutput.setText(model.getEvenNumbers().toString());
                     oddNumbersOutput.setText(model.getOddNumbers().toString());
-                } catch (Exception error) {
+                } catch (IllegalArgumentException error) {
                     errorOutput.setText(error.getMessage());
                 }
             } else {
@@ -65,7 +65,7 @@ public class ArrayDivider extends JFrame {
         addItem(errorOutput, 0, 2, 3, 1);
         addItem(new JLabel("Even numbers"), 0, 3, 1, 1);
         addItem(evenNumbersOutput, 1, 3, 2, 1);
-        addItem(new JLabel("Even numbers"), 0, 4, 1, 1);
+        addItem(new JLabel("Odd numbers"), 0, 4, 1, 1);
         addItem(oddNumbersOutput, 1, 4, 2, 1);
     }
 

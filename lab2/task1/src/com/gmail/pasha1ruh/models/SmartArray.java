@@ -14,7 +14,7 @@ public class SmartArray extends Observable {
     private static final Pattern pattern = Pattern.compile("(-?\\d+)(\\s*,\\s*(-?\\d+))*");
 
     public SmartArray() {
-        this.array = new int[0];
+        this.array = new int[10];
     }
 
     public SmartArray(int[] array) {

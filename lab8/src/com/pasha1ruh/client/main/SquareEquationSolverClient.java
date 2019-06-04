@@ -1,15 +1,15 @@
-package com.gmail.pasha1ruh.main;
+package com.pasha1ruh.client.main;
 
-import com.gmail.pasha1ruh.entities.SquareEquation;
+import com.pasha1ruh.client.entities.RemoteSquareEquationSolver;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;
 import java.util.Arrays;
 
-public class SquareEquationSolver extends JFrame {
-    public SquareEquationSolver() {
-        setTitle("Task 3");
+public class SquareEquationSolverClient extends JFrame {
+    public SquareEquationSolverClient() {
+        setTitle("Square Equation Solver");
 
         JPanel inputPanel = new JPanel();
         inputPanel.setLayout(new BoxLayout(inputPanel, BoxLayout.Y_AXIS));
@@ -68,7 +68,7 @@ public class SquareEquationSolver extends JFrame {
             errorOutput.setText(" ");
             resultOutput.setText("-");
             try {
-                SquareEquation squareEquation = new SquareEquation(
+                RemoteSquareEquationSolver squareEquation = new RemoteSquareEquationSolver(
                         Double.parseDouble(aInput.getText()),
                         Double.parseDouble(bInput.getText()),
                         Double.parseDouble(cInput.getText())
@@ -87,10 +87,10 @@ public class SquareEquationSolver extends JFrame {
     }
 
     public static void main(String[] args) {
-		javax.swing.SwingUtilities.invokeLater(() -> {
-			JFrame frame = new SquareEquationSolver();
-			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-			frame.setVisible(true);
+        javax.swing.SwingUtilities.invokeLater(() -> {
+            JFrame frame = new SquareEquationSolverClient();
+            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            frame.setVisible(true);
         });
     }
 }

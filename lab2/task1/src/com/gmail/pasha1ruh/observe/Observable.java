@@ -11,7 +11,6 @@ public class Observable {
     }
 
     public boolean removeObserver(Observer observer) {
-        System.out.println("here");
         return observers.remove(observer);
     }
 
