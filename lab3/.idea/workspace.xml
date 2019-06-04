@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5afab685-82a8-4dcb-9d1e-fff14a0a95b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/zulus/task2/NumbersStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zulus/task2/NumbersStore.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/NumbersStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <element signature="method#NumbersStore#0;class#NumbersStore#0" />
+                <element signature="e#382#467#1" />
+                <element signature="e#581#671#1" />
+                <element signature="e#755#794#1" />
+                <element signature="method#fillRandom#0;class#NumbersStore#0" />
+                <element signature="method#setStrategy#0;class#NumbersStore#0" />
+                <element signature="method#modifyEache3thElements#0;class#NumbersStore#0" />
+                <element signature="method#getFirstNegative#0;class#NumbersStore#0" />
+                <element signature="method#getLastNegative#0;class#NumbersStore#0" />
+                <element signature="method#process#0;class#NumbersStore#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/view/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/ConsoleView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/NumbersStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="method#NumbersStore#0;class#NumbersStore#0" />
+                <element signature="e#189#274#1" />
+                <element signature="method#NumbersStore#1;class#NumbersStore#0" />
+                <element signature="e#388#478#1" />
+                <element signature="e#562#601#1" />
+                <element signature="method#fillRandom#0;class#NumbersStore#0" />
+                <element signature="e#855#932#1" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1384#1385#0" expanded="true" />
+                <element signature="e#1423#1424#0" expanded="true" />
+                <element signature="method#toString#0;class#NumbersStore#0" />
+                <element signature="e#1627#1717#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileWrite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BinaryToBinaryFileProcessorStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="5" selection-start-line="10" selection-start-column="56" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BaseFileProcessorStartegy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="32" column="75" lean-forward="true" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Float</find>
+      <find>NumberStorage</find>
+      <find>OpenFile</find>
+      <find>View</find>
+      <find>textArea</find>
+      <find>VK_</find>
+      <find>ViewController</find>
+      <find>JTextArea</find>
+      <find>textField</find>
+      <find>numbersStore</find>
+      <find>north</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Integer</replace>
+      <replace>NumbersStore</replace>
+      <replace>OpenFileView</replace>
+      <replace>View</replace>
+      <replace>GeneralView</replace>
+      <replace>numbers</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/zulus/Lab3Exception.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/RandomFileGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/TxtFileProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/fileProcessors/TxtFileProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/fileProcessors/BinaryFileProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/fileProcessors/TextToTextFileProcessorStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/fileProcessors/BaseFileProcessorStartegy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/ConsoleView.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/NumbersStore.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/ConsoleView.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/TextToTextFileProcessorStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/Text.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/Sentence.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/view/WriteFIleView.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileRead.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileWrite.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/View.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/view/GeneralView.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BinaryToTextFileProcessorStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/TextToBinaryFileProcessorStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BinaryToTheSameFileProcessorStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BinaryToBinaryFileProcessorStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BaseFileProcessorStartegy.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/TxtFileProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/ConsoleView.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/TxtFileProcessor.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/view/OpenFileView.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/Model.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task1/NumbersStore.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/view/WriteFileView.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/view/View.java" />
+        <option value="$PROJECT_DIR$/src/com/zulus/task2/NumbersStore.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="649" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zulus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zulus" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zulus" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="fileProcessors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zulus" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/zulus/task2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zulus.task1.fileProcessors" />
+      <recent name="com.zulus.fileProcessors" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/zulus/task2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.task2">
+    <configuration name="task 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.zulus.task1.Main" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zulus.task2.Main" />
+      <module name="lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zulus.task2.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.task 1" />
+      <item itemvalue="Application.task2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5afab685-82a8-4dcb-9d1e-fff14a0a95b8" name="Default Changelist" comment="" />
+      <created>1557776768403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557776768403</updated>
+      <workItem from="1557776770630" duration="6738000" />
+      <workItem from="1557818645525" duration="7622000" />
+      <workItem from="1557835126673" duration="1636000" />
+    </task>
+    <task id="LOCAL-00001" summary="lab3 done">
+      <created>1557832508142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557832508142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15996000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34981686" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32921812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32921812" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32921812" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3 done" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/Lab3Exception.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1329">
+          <caret line="108" column="11" selection-start-line="108" selection-start-column="11" selection-end-line="108" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2685">
+          <caret line="268" column="28" selection-start-line="268" selection-start-column="28" selection-end-line="268" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          <folding>
+            <element signature="e#3008#3009#0" expanded="true" />
+            <element signature="e#3055#3056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out2.txt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/fileProcessors/BinaryFileProcessor.java" />
+    <entry file="file://$PROJECT_DIR$/out.txt" />
+    <entry file="file://$PROJECT_DIR$/lab3.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/TextToTextFileProcessorStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/KeyEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19677">
+          <caret line="965" column="28" selection-start-line="965" selection-start-column="28" selection-end-line="965" selection-end-column="28" />
+          <folding>
+            <element signature="e#43831#43832#0" expanded="true" />
+            <element signature="e#43861#43862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/view/GeneralView.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/TextToBinaryFileProcessorStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BinaryToTextFileProcessorStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/TextToTextFileProcessorStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BinaryToTheSameFileProcessorStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/BinaryToBinaryFileProcessorStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/BinaryToTextFileProcessorStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/TextToBinaryFileProcessorStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/BaseFileProcessorStartegy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/RandomFileGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/TxtFileProcessor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/ConsoleView.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/TxtFileProcessor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/Sentence.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/Text.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="141" column="57" selection-start-line="141" selection-start-column="57" selection-end-line="141" selection-end-column="57" />
+          <folding>
+            <element signature="e#5697#5698#0" expanded="true" />
+            <element signature="e#5728#5729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JTextArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="133" column="11" selection-start-line="133" selection-start-column="11" selection-end-line="133" selection-end-column="11" />
+          <folding>
+            <element signature="e#4754#4755#0" expanded="true" />
+            <element signature="e#4792#4793#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/view/OpenFileView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/view/WriteFileView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/RandomFileGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BinaryToBinaryFileProcessorStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" selection-start-line="10" selection-start-column="56" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/NumbersStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="method#NumbersStore#0;class#NumbersStore#0" />
+            <element signature="e#382#467#1" />
+            <element signature="e#581#671#1" />
+            <element signature="e#755#794#1" />
+            <element signature="method#fillRandom#0;class#NumbersStore#0" />
+            <element signature="method#setStrategy#0;class#NumbersStore#0" />
+            <element signature="method#modifyEache3thElements#0;class#NumbersStore#0" />
+            <element signature="method#getFirstNegative#0;class#NumbersStore#0" />
+            <element signature="method#getLastNegative#0;class#NumbersStore#0" />
+            <element signature="method#process#0;class#NumbersStore#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/ConsoleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/fileProcessors/FileWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task2/NumbersStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="method#NumbersStore#0;class#NumbersStore#0" />
+            <element signature="e#189#274#1" />
+            <element signature="method#NumbersStore#1;class#NumbersStore#0" />
+            <element signature="e#388#478#1" />
+            <element signature="e#562#601#1" />
+            <element signature="method#fillRandom#0;class#NumbersStore#0" />
+            <element signature="e#855#932#1" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1384#1385#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="method#toString#0;class#NumbersStore#0" />
+            <element signature="e#1627#1717#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zulus/task1/fileProcessors/BaseFileProcessorStartegy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="32" column="75" lean-forward="true" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

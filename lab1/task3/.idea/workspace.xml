@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5801305-59e5-4a54-96d7-1b7b83b4a2aa" name="Default Changelist" comment="" />
+    <list default="true" id="f5801305-59e5-4a54-96d7-1b7b83b4a2aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../taks1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab2/task1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab2/task2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab8/lab8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taks1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taks1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taks1/src/com/gmail/pasha1ruh/view/ArrayDivider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taks1/src/com/gmail/pasha1ruh/view/ArrayDivider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gmail/pasha1ruh/main/SquareEquationSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gmail/pasha1ruh/main/SquareEquationSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/task1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/task1/src/com/gmail/pasha1ruh/models/SmartArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task1/src/com/gmail/pasha1ruh/models/SmartArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/task1/src/com/gmail/pasha1ruh/observe/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task1/src/com/gmail/pasha1ruh/observe/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/task1/src/com/gmail/pasha1ruh/observe/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task1/src/com/gmail/pasha1ruh/observe/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/task2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,16 +28,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gmail/pasha1ruh/entities/SquareEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="255">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -27,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gmail/pasha1ruh/main/SquareEquationSolver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+            <state relative-caret-position="529">
+              <caret line="94" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="94" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,6 +62,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -59,12 +79,12 @@
     <option name="width" value="1201" />
     <option name="height" value="657" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -102,11 +122,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -149,17 +172,18 @@
       <workItem from="1557696318874" duration="7982000" />
       <workItem from="1557726070252" duration="178000" />
       <workItem from="1557741433275" duration="300000" />
+      <workItem from="1557832883953" duration="808000" />
+      <workItem from="1559627482061" duration="2865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8460000" />
+    <option name="totallyTimeSpent" value="12133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="769" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="1" width="1366" height="767" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20333838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2094082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -168,7 +192,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32761312" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -205,15 +229,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gmail/pasha1ruh/entities/SquareEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gmail/pasha1ruh/main/SquareEquationSolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        <state relative-caret-position="529">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="94" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
